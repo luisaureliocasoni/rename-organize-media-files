@@ -1,3 +1,8 @@
+ffmpeg/bin
+ffmpeg/doc
+ffmpeg/presets
+ffmpeg/LICENSE.txt
+ffmpeg/README.txt
 assets/
 new/
 .vscode/
